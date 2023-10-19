@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
@@ -38,7 +40,7 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kymmax/kymmax/output/snake.svg" alt="Snake animation" />
 
 ###
 
